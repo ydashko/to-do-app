@@ -1,9 +1,13 @@
-# React TypeScript Starter Pack
+# 2048 Game
 
-To use this template click `Use this template`
+## Project Description
+This is an implementation of the classic 2048 game using pure JavaScript. The game involves merging numbers on a grid to reach the value of 2048 and achieve the highest score possible.
 
-### Available Scripts
+## Technologies Used
+The 2048 game was created using the following technologies:
+- HTML5
+- SCSS
+- JavaScript
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Preview Link
+[DEMO LINK]()
