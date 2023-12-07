@@ -1,13 +1,13 @@
-# 2048 Game
+# ToDoApp (React)
 
 ## Project Description
-This is an implementation of the classic 2048 game using pure JavaScript. The game involves merging numbers on a grid to reach the value of 2048 and achieve the highest score possible.
+This is an implementation of ToDoApp using React.
 
 ## Technologies Used
-The 2048 game was created using the following technologies:
-- HTML5
-- SCSS
-- JavaScript
+This project utilizes the following technologies and libraries:
+- React
+- React Router
+- SCSS with BEM (Block, Element, Modifier) methodology
 
 ## Preview Link
 [DEMO LINK]()
