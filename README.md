@@ -1,4 +1,4 @@
-# ToDoApp (React)
+# ToDoApp React
 
 ## Project Description
 This is an implementation of ToDoApp using React.
