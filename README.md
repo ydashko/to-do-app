@@ -1,7 +1,7 @@
 # ToDoApp React
 
 ## Project Description
-This is an implementation of ToDoApp using React.
+This is an implementation of a basic ToDoApp using React.
 
 ## Technologies Used
 This project utilizes the following technologies and libraries:
