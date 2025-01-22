@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+# React todo app
+Todo App with adding,deleting,filtering functions
+Made with React, SCSS
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## [DEMO](https://ydashko.github.io/to-do-app/)
